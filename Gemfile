@@ -93,14 +93,14 @@ end
 gem "devise"
 
 # Core packages.
-gem "bullet_train"
-gem "bullet_train-super_scaffolding"
-gem "bullet_train-api"
-gem "bullet_train-outgoing_webhooks"
-gem "bullet_train-incoming_webhooks"
-gem "bullet_train-themes-light"
-gem "bullet_train-integrations"
-gem "bullet_train-integrations-stripe"
+# gem "bullet_train"
+# gem "bullet_train-super_scaffolding"
+# gem "bullet_train-api"
+# gem "bullet_train-outgoing_webhooks"
+# gem "bullet_train-incoming_webhooks"
+# gem "bullet_train-themes-light"
+# gem "bullet_train-integrations"
+# gem "bullet_train-integrations-stripe"
 
 # Optional support packages.
 # gem "bullet_train-sortable"
