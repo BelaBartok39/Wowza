@@ -103,9 +103,9 @@ gem "bullet_train-integrations"
 gem "bullet_train-integrations-stripe"
 
 # Optional support packages.
-gem "bullet_train-sortable"
-gem "bullet_train-scope_questions"
-gem "bullet_train-obfuscates_id"
+# gem "bullet_train-sortable"
+# gem "bullet_train-scope_questions"
+# gem "bullet_train-obfuscates_id"
 
 # source "https://BULLET_TRAIN_PRO_TOKEN@gem.fury.io/bullettrain" do
 #   gem "bullet_train-action_models"
