@@ -141,7 +141,7 @@ group :test do
   gem "factory_bot_rails", group: :development
 
   # Write system tests by pointing and clicking in your browser.
-  gem "magic_test"
+  # gem "magic_test"
 
   # Increase parallelism to run CircleCI tests across multiple nodes
   gem "knapsack_pro"
